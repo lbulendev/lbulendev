@@ -11,7 +11,7 @@ I've spent 13 years building native iOS apps (and 10 alongside them on Android) 
 | **Granular Insights** (iOS / Android) | Senior Software Engineer — Mobile, Corteva/Granular | [App Store](https://apps.apple.com/us/app/granular-insights/id6745721003) |
 | **Granular Insights Classic** (iOS / Android) | Senior Software Engineer — Mobile, Corteva/Granular | [App Store](https://apps.apple.com/us/app/granular-insights-classic/id1447163449) |
 | **Granular Business** (iOS / Android) | Software Engineer — Mobile, Granular | — |
-| **Epocrates Essentials** (iOS) | Mobile Developer, Athenahealth — #1 mobile medical reference, 1M+ active users | [App Store](https://apps.apple.com/us/app/epocrates-drug-info-pill-id/id281935788) |
+| **Epocrates Essentials** (iOS) | Mobile Developer, Athenahealth — #1 mobile medical reference, 1M+ active users | — |
 | **Maverick's Solitaire** (iOS) | Personal project — sole designer, developer, and publisher | [App Store](https://apps.apple.com/us/app/mavericks-solitaire/id1513061865) |
 
 ## 🔧 How I build
